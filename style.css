@@ -1,0 +1,142 @@
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+   color:rgba(0, 0, 0, 0.829);
+}
+img{
+    width:100%;
+}
+section{
+    
+  height:700px;
+  
+    
+}
+.haif-width{
+    width:40%;
+    float:left;
+}
+#header{
+    margin-top:70px;
+    margin-left:6%;
+    padding:3%;
+}
+#peter{
+    margin-top:50px;
+}
+.top-banner{
+    background-image:url("images/header-bg.png");
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    background-size:100%;
+    background-position:center;
+   
+}
+.pink-highlight{
+    color:rgba(255, 20, 145, 0.788);
+    font-size:65px;
+    font-weight:bolder;
+}
+p{
+    color:rgba(105, 105, 105, 0.863);
+    margin:40px 0;
+}
+.link-button{
+    text-decoration:none;
+    text-transform:uppercase;
+    color:#fff;
+    padding:10px 20px;
+    background-image:linear-gradient(45deg,rgba(255, 20, 145, 0.904),rgb(201, 36, 63));
+    border-radius:5px;
+}
+.middel-banner{
+    background-image:url("images/biography-bg.png");
+    background-repeat:no-repeat;
+    min-height:800px;
+}
+#middel{
+    margin-left:10%;
+    margin-top:70px;
+}
+
+#bio{
+    margin-top:200px;
+    margin-left:10%;
+}
+#work{
+    height:650px;
+}
+.one-third-width{
+    width:30%;
+    float:left;
+    margin-left:2%;
+}
+.latest-banner{
+    background-image:url("images/latest-work-bg.png");
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-position:center;
+    background-attachment:scroll;
+   
+   
+}
+
+.dream{
+    padding:60px;
+}
+.light{
+    text-align:center;
+    color:rgba(0, 0, 0, 0.61);
+    font-size:40px;
+    font-weight:700;
+}
+.highlight{
+    text-align:center;
+
+}
+.highlight h1{font-size:60px;
+    font-weight:700;
+
+}
+.highlight h5{font-size:30px;
+    padding-top:60px;
+    margin:0;
+}
+.highlight p{color:rgba(0, 0, 0, 0.534);
+font-size:18px;
+margin-top:20px;}
+#paragraph{
+    font-size:30px;
+    width:75%;
+    margin-left:15%;
+    color:black;
+}
+.button-highlight{
+    width:50%;
+    height:150px;
+    background-color:rgba(255, 20, 145, 0.822);
+    border-radius:5px;
+    margin-left:25%;
+    text-align:center;
+    color:#fff;
+    display:inline-block;
+}
+.button-highlight p{padding-top:35px;
+    margin:0;
+color:#fff;}
+.button-highlight h2{
+    padding-bottom:50px;
+    margin:0;
+}
+.footer-banner{
+    background-image:url("images/footer-bg.png");
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-attachment:scroll;
+}
+footer p{
+    text-align:center;
+    margin-top:10%;
+}
+
+
